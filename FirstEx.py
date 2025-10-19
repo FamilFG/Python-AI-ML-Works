@@ -89,7 +89,7 @@ def word_statistics(text):
     for ch in [".", "!", "?", ","]:
         text = text.replace(ch, "")
     words = text.lower().split()
-    #turn the sentence to words
+    #turn the sentence to wordss
 
     word_freq = {}
     for i in words:
