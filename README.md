@@ -1,5 +1,10 @@
 # Python AI & ML Works
 
+<p align="center">
+  <img src="banner.png" alt="Deep Learning Projects Banner" />
+</p>
+
+
 This repository contains projects, exercises, and experiments in Python related to Machine Learning, AI, and Data Analysis. It serves as a personal space to practice skills, gain experience, and explore different ML techniques and libraries.
 
 ## Repository Structure
